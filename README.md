@@ -1,3 +1,3 @@
-# First JS Game
+# Portfolio Game
 
 Open `index.html`
